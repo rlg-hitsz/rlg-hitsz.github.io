@@ -1,7 +1,7 @@
 ---
 title: "The resource of Reinforcement Learning"
 author: "Shiyu Chen"
-date: '2019-05-06'
+date: '2019-05-18'
 excerpt: "collect some study resource of RL"
 layout: post
 permalink: null
