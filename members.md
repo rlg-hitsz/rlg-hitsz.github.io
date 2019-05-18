@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: Current Members
 ---
 
 <p align="center">
