@@ -1,0 +1,33 @@
+# Site
+name: "HITsz Reinforcement Learning Group"
+title: "HITsz Reinforcement Learning Group"
+description: "HITsz Reinforcement Learning Group"
+meta_description: "HITsz Reinforcement Learning Group"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'rlg-hitsz@foxmail.com'
+google_analytics: ''
+disqus: 'rlg-hitsz'
+# sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
