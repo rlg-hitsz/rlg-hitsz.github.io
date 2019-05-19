@@ -9,7 +9,7 @@ title: Current Members
 
 ### PhD Students
 ------
-<div>
+<div id="container">
 <img src="/people/ps1.jpg" alt="" width="150" align="left" hspace="10" vspace="5" />
 Shiyu Chen (陈时雨)  
 March, 2017 - Present  
