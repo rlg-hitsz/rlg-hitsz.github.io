@@ -866,12 +866,12 @@ iframe {
     .block img {
         float: left;
         margin-right: 10px;
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 210px;
     }
     .block p {
-        width: 200px;
-        height: 100px;
+        width: 800px;
+        height: 210px;
         line-height: 20px;
         overflow: hidden;
     }
