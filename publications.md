@@ -13,5 +13,13 @@ Automatica, 2018.
 <br>
 
 ------
+<img src="/publications/j2.jpg" alt="" width="150" align="left" hspace="10" vspace="5" />
+[Motion Tracking of the Carotid Artery Wall From Ultrasound Image Sequences: a Nonlinear State-Space Approach](/publications/j2.pdf).<br>
+*Zhifan Gao, Yanjie Li, Yuanyuan Sun, etc.*<br>
+IEEE Transactions on Medical Imaging, 2018.
+<br>
+<br>
+
+------
 
 ### Conference Papers
