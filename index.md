@@ -12,4 +12,15 @@ title: Home
     </div>
 </section>
 -->
+<p align="center">
+<img src="/assets/images/head.jpg" alt="" width="" />
+</p>
+Welcome to the website of the Reinforcement Learning Group led by Prof. Yanjie Li.
+
+## Research Interests
+- Reinforcement Learning
+- Deep Reinforcement Learning
+- Markov Decision Processes
+- Intelligent Unmanned Warehouse
+
 ## News
