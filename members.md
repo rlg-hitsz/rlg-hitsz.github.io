@@ -9,15 +9,15 @@ title: Current Members
 
 ### PhD Students
 ------
+<div class="block">
 <img src="/people/ps1.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+<p>
 Shiyu Chen (陈时雨)  
 March, 2017 - Present  
-M.Eng. in Harbin Institute of Technology, Shenzhen  
+M.Eng. in Harbin Institute of Technology, Shenzhen  <br>
 Email: chenshiyu@stu.hit.edu.cn  
 Research Interests: Robust Reinforcement Learning  
-<br>
-<br>
-<br>
-
+</p>
+</div>
 ------
 ### MPhil Students
