@@ -4,7 +4,7 @@ title: Prof. Yanjie Li
 ---
 
 <img src="/people/1.jpg" alt="" width="400" align="right" />
-Associsate professor,<br>
+Associate professor,<br>
 Doctoral Supervisor,<br>
 Control Science and Engineering,<br>
 Harbin Institute of Technology, Shenzhen.<br>
