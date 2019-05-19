@@ -11,7 +11,6 @@ title: Publications
 Automatica, 2018.
 <br>
 <br>
-<br>
 
 ------
 
