@@ -23,3 +23,12 @@ IEEE Transactions on Medical Imaging, 2018.
 ------
 
 ### Conference Papers
+------
+<img src="/publications/c1.jpg" alt="" width="150" align="left" hspace="10" vspace="5" />
+[An Inverse Reinforcement Learning Algorithm for semi-Markov Decision Processes](/publications/c1.pdf).<br>
+*Chuanfang Tan, Yanjie Li, Yuhu Cheng*<br>
+IEEE International Conference on Information and Automation, 2017.
+<br>
+<br>
+
+------
