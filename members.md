@@ -34,6 +34,17 @@ title: Current Members
 </div>
 ------
 <div class="block">
+    <img src="/people/liuxiao.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Xiao Liu (刘潇)<br>
+        September, 2017 - Present<br>
+        B.Eng. in Shandong University of Science and Technology<br>
+        Email: liuxiao20166@163.com<br>
+        Research Interests: Warehousing Robot Localization
+    </p>
+</div>
+------
+<div class="block">
     <img src="/people/zhangyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
         Yu Zhang (张宇)<br>
@@ -51,6 +62,17 @@ title: Current Members
         September, 2018 - Present<br>
         B.Eng. in Nanchang University<br>
         Email: 384346716@qq.com<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
+<div class="block">
+    <img src="/people/xukaiming.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Kevin Hsu (徐开明)<br>
+        September, 2018 - Present<br>
+        B.Eng. in South China University of Technology<br>
+        Email: npufsuhhzak@outlook.com<br>
         Research Interests: Reinforcement Learning
     </p>
 </div>
