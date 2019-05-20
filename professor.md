@@ -3,7 +3,7 @@ layout: page
 title: Prof. Yanjie Li
 ---
 
-<img src="/people/1.jpg" alt="" width="400" align="right" />
+<img src="/people/members.jpg" alt="" width="400" align="right" />
 Prof. Yanjie Li (李衍杰)<br>
 Associate professor<br>
 Doctoral Supervisor<br>

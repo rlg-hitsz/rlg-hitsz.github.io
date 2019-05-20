@@ -4,7 +4,7 @@ title: Alumni
 ---
 
 <p align="center">
-<img src="/people/1.jpg" alt="" width="800" />
+<img src="/people/alumni.jpg" alt="" width="800" />
 </p>
 
 ------
@@ -14,8 +14,8 @@ title: Alumni
         Qin Wan (万琴)<br>
         September, 2016 - January, 2019<br>
         Position: Engineer, Huawei Company<br>
-        Email: <br>
-        Research Interests: 
+        Email: 1612082825@qq.com<br>
+        Research Interests: Robot Learn to Run
     </p>
 </div>
 ------
