@@ -29,7 +29,18 @@ title: Current Members
         September, 2017 - Present<br>
         B.Eng. in Zhengzhou University<br>
         Email: chenxin@stu.hit.edu.cn<br>
-        Research Interests: Robotics Path Planning
+        Research Interests: Robotic Path Planning
+    </p>
+</div>
+------
+<div class="block">
+    <img src="/people/zhangyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Yu Zhang (张宇)<br>
+        September, 2018 - Present<br>
+        B.Eng. in Qingdao University of Technology<br>
+        Email: xyzzhangyu@gmail.com<br>
+        Research Interests: Robotic Gait Planning
     </p>
 </div>
 ------
