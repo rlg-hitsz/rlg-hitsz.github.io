@@ -33,3 +33,14 @@ title: Current Members
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/wuchongying.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Chongying Wu (邬崇莹)<br>
+        September, 2018 - Present<br>
+        B.Eng. in Nanchang University<br>
+        Email: 384346716@qq.com<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
