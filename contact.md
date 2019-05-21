@@ -21,7 +21,7 @@ Email:<autolyj@hit.edu.cn><br>
         </div>
 
         <div class="col-md-6">
-            <input class="form-control" type="email" name="_replyto" placeholder="E-mail Address">
+            <input class="form-control" type="email" name="email" placeholder="Your Email Address">
         </div>
 
     </div>
