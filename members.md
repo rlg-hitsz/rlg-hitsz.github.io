@@ -34,6 +34,17 @@ title: Current Members
 </div>
 ------
 <div class="block">
+    <img src="/people/changruijie.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Ruijie Chang (常瑞杰)<br>
+        September, 2017 - Present<br>
+        B.Eng. in Yanshan University<br>
+        Email: ysu_changrj@163.com<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
+<div class="block">
     <img src="/people/liuxiao.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
         Xiao Liu (刘潇)<br>
