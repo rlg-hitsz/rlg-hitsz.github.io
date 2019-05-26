@@ -12,7 +12,7 @@ title: Current Members
 <div class="block">
     <img src="/people/chenshiyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
-        Shiyu Chen (陈时雨)<br>
+        <a href="https://www.chenshiyu.top">Shiyu Chen (陈时雨)</a><br>
         March, 2017 - Present<br>
         M.Eng. in Harbin Institute of Technology, Shenzhen<br>
         Email: chenshiyu@stu.hit.edu.cn<br>
@@ -58,7 +58,7 @@ title: Current Members
 <div class="block">
     <img src="/people/zhangyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
-        Yu Zhang (张宇)<br>
+        <a href="https://cnyuzhang.github.io/">Yu Zhang (张宇)</a><br>
         September, 2018 - Present<br>
         B.Eng. in Qingdao University of Technology<br>
         Email: xyzzhangyu@gmail.com<br>
