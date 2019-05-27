@@ -4,7 +4,7 @@ title: Prof. Yanjie Li
 ---
 
 <img src="/people/members.jpg" alt="" width="400" align="right" />
-Prof. Yanjie Li (李衍杰)<br>
+[Prof. Yanjie Li (李衍杰)](http://www.hitsz.edu.cn/teacher/view/id-450.html)<br>
 Associate professor<br>
 Doctoral Supervisor<br>
 Control Science and Engineering<br>
