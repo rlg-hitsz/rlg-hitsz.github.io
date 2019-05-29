@@ -67,6 +67,17 @@ title: Current Members
 </div>
 ------
 <div class="block">
+    <img src="/people/liulintao.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        <a href="https://taospirit.github.io/">Lintao Liu (刘林韬)</a><br>
+        September, 2018 - Present<br>
+        B.Eng. in North China Electric Power University, Baoding<br>
+        Email: lintao209@outlook.com<br>
+        Research Interests: Robotic Motion Planning
+    </p>
+</div>
+------
+<div class="block">
     <img src="/people/wuchongying.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
         Chongying Wu (邬崇莹)<br>
