@@ -3,7 +3,7 @@ layout: page
 title: Prof. Yanjie Li
 ---
 
-<img src="/people/members.jpg" alt="" width="400" align="right" />
+<img src="/people/liyanjie.jpg" alt="" width="300" align="right" />
 [Prof. Yanjie Li (李衍杰)](http://www.hitsz.edu.cn/teacher/view/id-450.html)<br>
 Associate professor<br>
 Doctoral Supervisor<br>
