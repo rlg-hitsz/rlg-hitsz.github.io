@@ -7,7 +7,7 @@ title: 李衍杰
 <a href="https://www.rlg-hitsz.net/professor">English</a>
 </p>
 
-<img src="/people/liyanjie.jpg" alt="" width="300" align="right" />
+<img src="/people/liyanjie.jpg" alt="" width="300" align="right" hspace="10" vspace="10" />
 [李衍杰](http://www.hitsz.edu.cn/teacher/view/id-450.html)<br>
 副教授<br>
 博士生导师<br>
