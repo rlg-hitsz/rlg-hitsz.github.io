@@ -3,7 +3,10 @@ layout: page
 title: 李衍杰
 ---
 
-[[English]](https://www.rlg-hitsz.net/professor)
+<p align="right">
+<a href="https://www.rlg-hitsz.net/professor">English</a>
+</p>
+
 <img src="/people/liyanjie.jpg" alt="" width="300" align="right" />
 [李衍杰](http://www.hitsz.edu.cn/teacher/view/id-450.html)<br>
 副教授<br>
