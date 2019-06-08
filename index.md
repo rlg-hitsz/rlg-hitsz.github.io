@@ -20,7 +20,11 @@ Welcome to the website of the Reinforcement Learning Group led by Prof. Yanjie L
 ### Research Interests
 - Reinforcement Learning
 - Deep Reinforcement Learning
-- Markov Decision Processes
-- Intelligent Unmanned Warehouse
+- Inverse Reinforcement Learning
+- Decision and Optimization
+- Discrete Event Dynamic Systems
+- Unmanned Aerial Vehicle (UAV) Control
+- Intelligent Autonomous Unmanned Systems
 
 ### News
+- [Positions for Master and PhD students. (2019/06/08)](https://www.rlg-hitsz.net/positions)
