@@ -3,6 +3,7 @@ layout: page
 title: Prof. Yanjie Li
 ---
 
+[[中文]](https://www.rlg-hitsz.net/professor_Chinese)
 <img src="/people/liyanjie.jpg" alt="" width="300" align="right" />
 [Prof. Yanjie Li (李衍杰)](http://www.hitsz.edu.cn/teacher/view/id-450.html)<br>
 Associate professor<br>
