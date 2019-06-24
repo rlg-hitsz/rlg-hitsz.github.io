@@ -26,7 +26,7 @@ categories:
 - [Multi-Agent Reinforcement Learning Tutorial (SJTU)](http://wnzhang.net/tutorials/marl2018/index.html)
 
 ## 3. Platform and Codes
-- [Open AI](https://spinningup.openai.com/en/latest/index.html)
+- [Open AI](https://openai.com/resources/)
 - [莫烦 Python](https://morvanzhou.github.io/)
 - [Algorithm codes (DP, MC, SARSA, Q-Learning, PG, DDPG, A3C)](https://github.com/dennybritz/reinforcement-learning)
 - [Python replication for Sutton & Barto's book](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
