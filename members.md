@@ -99,3 +99,36 @@ title: Current Members
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/liuyuecheng.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Yuecheng Liu (刘悦丞)<br>
+        September, 2019 - Present<br>
+        B.Eng. in Central South University<br>
+        Email: lyc150617@csu.edu.cn<br>
+        Research Interests: Machine Learning
+    </p>
+</div>
+------
+<div class="block">
+    <img src="/people/xuyunhong.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Yunhong Xu (许运鸿)<br>
+        September, 2019 - Present<br>
+        B.Eng. in China University of Mining and Technology<br>
+        Email: 496172818@qq.com<br>
+        Research Interests: Machine Learning
+    </p>
+</div>
+------
+<div class="block">
+    <img src="/people/lvshaohua.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Shaohua Lv (吕少华)<br>
+        September, 2019 - Present<br>
+        B.Eng. in Wuhan University of technology<br>
+        Email: Lv_Shaohua97@163.com<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
