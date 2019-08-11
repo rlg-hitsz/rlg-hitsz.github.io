@@ -16,10 +16,22 @@ title: Current Members
         March, 2017 - Present<br>
         M.Eng. in Harbin Institute of Technology, Shenzhen<br>
         Email: chenshiyu@stu.hit.edu.cn<br>
-        Research Interests: Robust Reinforcement Learning
+        Research Interests: Robust Reinforcement Learning, UAV Control
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/liuqi.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Qi Liu (刘奇)<br>
+        September, 2019 - Present<br>
+        M.Eng. in Harbin Institute of Technology<br>
+        Email: 1362947673@qq.com<br>
+        Research Interests: SLAM and Reinforcement Learning
+    </p>
+</div>
+------
+
 ### MPhil Students
 ------
 <div class="block">
