@@ -144,3 +144,14 @@ title: Current Members
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/chenmeiling.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Meiling Chen (陈美玲)<br>
+        September, 2019 - Present<br>
+        B.Eng. in Hunan University<br>
+        Email: 1334849784@qq.com<br>
+        Research Interests: Machine Learning
+    </p>
+</div>
+------
