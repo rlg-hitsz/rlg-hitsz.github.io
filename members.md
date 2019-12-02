@@ -41,7 +41,7 @@ title: Current Members
         December, 2019 - Present<br>
         M.Sc. in The University of Edinburgh<br>
         Email: yangymzh@163.com<br>
-        Research Interests: Reinfoecement Learning
+        Research Interests: Reinforcement Learning
     </p>
 </div>
 ------
