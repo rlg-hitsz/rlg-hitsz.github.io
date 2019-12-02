@@ -32,6 +32,20 @@ title: Current Members
 </div>
 ------
 
+### Research Assistants
+------
+<div class="block">
+    <img src="/people/yangyiming.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Yiming Yang (杨一铭)<br>
+        December, 2019 - Present<br>
+        M.Sc. in The University of Edinburgh<br>
+        Email: yangymzh@163.com<br>
+        Research Interests: Reinfoecement Learning
+    </p>
+</div>
+------
+
 ### MPhil Students
 ------
 <div class="block">
