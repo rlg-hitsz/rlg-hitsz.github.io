@@ -131,7 +131,7 @@ title: Current Members
         Yuecheng Liu (刘悦丞)<br>
         September, 2019 - Present<br>
         B.Eng. in Central South University<br>
-        Email: lyc150617@csu.edu.cn<br>
+        Email: 19S153206@stu.hit.edu.cn<br>
         Research Interests: Machine Learning
     </p>
 </div>
