@@ -17,11 +17,11 @@ Feel free to contact us if you are interested in some of these projects.
 Nowadays, robots are in an increasingly complex working environment with the development of intelligent robots, and the correct navigation of robots is especially significant when there are numerous pedestrians. However, the unobservability of pedestrians’ behavioral intentions greatly increases the difficulty of robot navigation. The uncertainty of navigation can be effectively reduced if we can infer the behavioral intentions of pedestrians thus how to infer the intentions and trajectories of pedestrians from observable sequences becomes a problem that needs to be solved. Unlike conventional vision-based intent recognition methods that rely on cameras and laser sensors, in this paper, we obtained observation data based on Microsoft Kinect depth sensor, and for modeling, we used a traditional Hidden Markov Models (HMMs). The training data we used was collected by ourselves. In the experiment, we tested several possible interactions between pedestrians, analyzed and predicted their possible intentions, and summarized the experimental results. The results show that the model can predict the pedestrians’ intentions in general, but it is limited by the maximum distance of depth and field of the Kinect depth image. Therefore, this method still has a large room for improvement.
 
 <p align="center">
-<iframe width="300" height="200" src="https://www.youtube.com/embed/jkG9D5aZfy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="240" src="https://www.youtube.com/embed/jkG9D5aZfy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="300" height="200" src="https://www.youtube.com/embed/SEdIfquZ-vM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="240" src="https://www.youtube.com/embed/SEdIfquZ-vM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="300" height="200" src="https://www.youtube.com/embed/dZ4KVu-HF-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="240" src="https://www.youtube.com/embed/dZ4KVu-HF-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ------
