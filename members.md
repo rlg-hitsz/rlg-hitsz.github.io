@@ -3,34 +3,10 @@ layout: page
 title: Current Members
 ---
 
-<div id="butong_net_left" style="overflow:hidden;width:500px;">
-<table cellpadding="0" cellspacing="0" border="0">
-<tr><td id="butong_net_left1" valign="top" align="center">
-<table cellpadding="2" cellspacing="0" border="0">
-<tr align="center">
-<td><img src="/people/members.jpg" alt="" width="800" /></td>
-<td><img src="/people/alumni.jpg" alt="" width="800" /></td>
-</tr>
-</table>
-</td>
-<td id="butong_net_left2" valign="top"></td>
-</tr>
-</table>
-</div>
-<script>
-var speed=30//速度数值越大速度越慢
-butong_net_left2.innerHTML=butong_net_left1.innerHTML
-function Marquee3(){
-if(butong_net_left2.offsetWidth-butong_net_left.scrollLeft<=0)
-butong_net_left.scrollLeft-=butong_net_left1.offsetWidth
-else{
-butong_net_left.scrollLeft++
-}
-}
-var MyMar3=setInterval(Marquee3,speed)
-butong_net_left.οnmοuseοver=function() {clearInterval(MyMar3)}
-butong_net_left.οnmοuseοut=function() {MyMar3=setInterval(Marquee3,speed)}
-</script>
+<marquee scrollamount="1" scrolldelay="100" direction= "right" width="200" height="200">
+    <img src="/people/members.jpg" alt="" width="800" />
+    <img src="/people/alumni.jpg" alt="" width="800" />
+</marquee>
 
 <p align="center">
 <img src="/people/members.jpg" alt="" width="800" />
