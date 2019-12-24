@@ -3,9 +3,9 @@ layout: page
 title: Current Members
 ---
 
-<marquee scrollamount="1" scrolldelay="100" direction= "right" width="200" height="200">
-    <img src="/people/members.jpg" alt="" width="100" />
-    <img src="/people/alumni.jpg" alt="" width="100" />
+<marquee scrollamount="1" scrolldelay="100" direction= "left" width="800" height="500">
+    <img src="/people/members.jpg" alt="" width="800" />
+    <img src="/people/alumni.jpg" alt="" width="800" />
 </marquee>
 
 <p align="center">
