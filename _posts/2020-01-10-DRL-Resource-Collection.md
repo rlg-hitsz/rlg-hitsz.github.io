@@ -10,16 +10,6 @@ categories:
   - Resource
 ---
 
-# DRL_collection
-a  collection of DRL-repo in Github
-
-| 时间 | 改动 | TODO | 版本 |
-| :-----: | :-----: | :-----: | :-----:|
-| 2019.12.27 | init | todo | v0.1 |
-| 2020.1.6 | 加入keras-rl | 整理学院派资料和repo | v0.1 |
-| 2020.1.10 | 整理学院派资料， 加入baselines | todo | v0.2 |
-| - | - | - | - |
----
 ## 0. 学院派资料(北美)
 很多资料都整理了这块的内容，我再简单的理清楚一下吧， 附带一些其他人的评价。
 ### UCL - RL Course by David Sliver
