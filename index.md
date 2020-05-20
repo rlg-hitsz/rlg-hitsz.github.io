@@ -15,7 +15,7 @@ title: Home
 <p align="center">
 <img src="/assets/images/head.jpg" alt="" width="" />
 </p>
-Welcome to the website of the Reinforcement Learning Group led by Prof. Yanjie Li.
+Welcome to the website of the Reinforcement Learning Group led by [Prof. Yanjie Li](https://www.rlg-hitsz.net/professor).
 
 ### Research Interests
 - Reinforcement Learning
