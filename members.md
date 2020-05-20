@@ -49,39 +49,6 @@ title: Current Members
 ### MPhil Students
 ------
 <div class="block">
-    <img src="/people/chenxin.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
-    <p>
-        Xin Chen (陈鑫)<br>
-        September, 2017 - Present<br>
-        B.Eng. in Zhengzhou University<br>
-        Email: chenxin@stu.hit.edu.cn<br>
-        Research Interests: Robotic Path Planning
-    </p>
-</div>
-------
-<div class="block">
-    <img src="/people/changruijie.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
-    <p>
-        Ruijie Chang (常瑞杰)<br>
-        September, 2017 - Present<br>
-        B.Eng. in Yanshan University<br>
-        Email: ysu_changrj@163.com<br>
-        Research Interests: Reinforcement Learning
-    </p>
-</div>
-------
-<div class="block">
-    <img src="/people/liuxiao.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
-    <p>
-        Xiao Liu (刘潇)<br>
-        September, 2017 - Present<br>
-        B.Eng. in Shandong University of Science and Technology<br>
-        Email: liuxiao20166@163.com<br>
-        Research Interests: Warehousing Robot Localization
-    </p>
-</div>
-------
-<div class="block">
     <img src="/people/zhangyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
         <a href="https://cnyuzhang.github.io/">Yu Zhang (张宇)</a><br>
