@@ -31,17 +31,14 @@ title: Current Members
     </p>
 </div>
 ------
-
-### Research Assistants
-------
 <div class="block">
-    <img src="/people/yangyiming.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <img src="/people/gaojianqi.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
-        Yiming Yang (杨一铭)<br>
-        December, 2019 - Present<br>
-        M.Sc. in The University of Edinburgh<br>
-        Email: yangymzh@163.com<br>
-        Research Interests: Reinforcement Learning
+        GAO Jianqi (高建琦)<br>
+        September, 2020 - Present<br>
+        M.Eng. in Northwestern Polytechnical University<br>
+        Email: 792587189@qq.com<br>
+        Research Interests: Reinforcement Learning and Inverse Reinforcement Learning
     </p>
 </div>
 ------
