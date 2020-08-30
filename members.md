@@ -177,3 +177,14 @@ title: Current Members
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/yezhaohui.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Zhaohui Ye (叶兆晖)<br>
+        September, 2020 - Present<br>
+        B.Eng. in Northeast University<br>
+        Email: yzhstormstout@163.com<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
