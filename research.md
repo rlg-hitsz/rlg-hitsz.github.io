@@ -12,6 +12,14 @@ Our research focus on Reinforcement Learning, Inverse Reinforcement Learning, De
 Feel free to contact us if you are interested in some of these projects.
 
 ------
+### Intelligent Unmanned Warehouse Robot
+
+<p align="center">
+<img src="/research/AGV-1.jpg" alt="" width="540" />
+<img src="/research/AGV-2.jpg" alt="" width="540" />
+</p>
+
+------
 ### Recognition of Pedestrains' Intentions Based on Machine Learning
 
 Nowadays, robots are in an increasingly complex working environment with the development of intelligent robots, and the correct navigation of robots is especially significant when there are numerous pedestrians. However, the unobservability of pedestrians’ behavioral intentions greatly increases the difficulty of robot navigation. The uncertainty of navigation can be effectively reduced if we can infer the behavioral intentions of pedestrians thus how to infer the intentions and trajectories of pedestrians from observable sequences becomes a problem that needs to be solved. Unlike conventional vision-based intent recognition methods that rely on cameras and laser sensors, in this paper, we obtained observation data based on Microsoft Kinect depth sensor, and for modeling, we used a traditional Hidden Markov Models (HMMs). The training data we used was collected by ourselves. In the experiment, we tested several possible interactions between pedestrians, analyzed and predicted their possible intentions, and summarized the experimental results. The results show that the model can predict the pedestrians’ intentions in general, but it is limited by the maximum distance of depth and field of the Kinect depth image. Therefore, this method still has a large room for improvement.
@@ -34,9 +42,6 @@ In this project, we present a complete strategy of tracking a ground moving targ
 
 <iframe width="540" height="300" src="https://www.youtube.com/embed/AmQ-6F1Wh_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-------
-### Intelligent Unmanned Warehouse
 
 ------
 ### Reinforcement Learning
