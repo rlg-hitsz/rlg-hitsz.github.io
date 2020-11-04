@@ -14,11 +14,19 @@ title: Teaching
 
 - RLG Internal Review, 2020/10/21.
 
-1. DQN (Lintao Liu, 2020/10/21)
+1. Deep Q-Learning (Lintao Liu, 2020/10/21)
    - Q-Learning
+     - SARSA
+     - TD-Learning
+     - Double Q-Learning
    - DQN
-   - Double DQN
-   - Rainbow DQN
+     - Experience Replay and Target Network
+     - Double DQN
+     - Dueling DQN
+     - Prioritized Experience Replay DQN
+     - Rainbow DQN
 2. MC and DDPG (Yuecheng Liu, 2020/10/28)
+   - MC
+   - DDPG
 3. 
 ------
