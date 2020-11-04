@@ -25,8 +25,20 @@ title: Teaching
      - Dueling DQN
      - Prioritized Experience Replay DQN
      - Rainbow DQN
-2. MC and DDPG (Yuecheng Liu, 2020/10/28)
-   - MC
+2. Monte-Carlo and Policy Gradient Method (Yuecheng Liu, 2020/10/28)
+   - Monte-Carlo
+   - Policy Gradient
    - DDPG
-3. 
+3. TRPO, PPO and Robust RL (Shiyu Chen, 2020/11/04)
+   - TRPO
+   - PPO
+   - Robust Control
+   - Robust RL and Soft Robust RL
+     - Transition Dynamics Uncertainty
+     - Action Uncertainty
+   - Action Robust RL
+     - Probabilistic Action
+     - Noisy Action
+     - Robust DDPG and PPO
+4. 
 ------
