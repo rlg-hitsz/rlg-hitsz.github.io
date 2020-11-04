@@ -29,9 +29,12 @@ title: Teaching
    - Monte-Carlo
    - Policy Gradient
    - DDPG
-3. TRPO, PPO and Robust RL (Shiyu Chen, 2020/11/04)
-   - TRPO
-   - PPO
+3. Policy Optimization Algorithms and Robust RL (Shiyu Chen, 2020/11/04)
+   - Policy Optimization Algorithms
+     - VPG
+     - NPG
+     - TRPO
+     - PPO
    - Robust Control
    - Robust RL and Soft Robust RL
      - Transition Dynamics Uncertainty
