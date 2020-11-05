@@ -188,3 +188,14 @@ title: Current Members
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/pangxizheng.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Xizheng Pang (庞玺政)<br>
+        September, 2020 - Present<br>
+        B.Eng. in Central South University<br>
+        Email: 20s153158@stu.hit.edu.cn<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
