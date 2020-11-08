@@ -15,13 +15,21 @@ categories:
 
 ## Overview
 
+<p align="center">
+<img src="/blog/20201108-L2RPN-network.jpg" alt="" width="1000" />
+</p>
+
 Power grids transport electricity across states, countries and even continents. They are the backbone of power distribution, playing a central economical and societal role by supplying reliable power to industry, services, and consumers. Their importance appears even more critical today as we transition towards a more sustainable world within a carbon-free economy, and concentrate energy distribution in the form of electricity. Problems that arise within the power grid range from transient brownouts to complete electrical blackouts which can create significant economic and social perturbations, i.e.de facto freezing society. Grid operators are still responsible for ensuring that a reliable supply of electricity is provided everywhere, at all times. With the advent of renewable energy, electric mobility, and limitations placed on engaging in new grid infrastructure projects, the task of controlling existing grids is becoming increasingly difficult, forcing grid operators to do “more with less”. **This challenge aims at testing the potential of AI to address this important real-world problem for our future.**
 
 ### Track1
 
+<p align="center">
+<img src="/blog/20201108-L2RPN-track2.jpg" alt="" width="1000" />
+</p>
+
 In this track, develop your agent to be robust to unexpected events and keep delivering reliable electricity everywhere even in difficult circumstances. An opponent, which we disclose to you, will attack in an adversarial fashion some lines of the grid everyday at different times (you can think of cyber-attacks for instance). You will have to overcome his attacks and keep operating the grid safely.
 
-### Solution
+#### Solution
 
 A direct challenge to apply existing machine learning methods is the humongous observation space and action space (including both discrete and continous action space). For example, to modify the topology of the power network, there are over 65000 actions avaible at every time step. To reduce the action space, a direct way is to traverse the whole action space and select the topN most effiective actions.
 
@@ -33,3 +41,9 @@ We aslo utilize ES (Evolution Strategy) to improve the model. The ES algorithm t
 - obtain more benifit from the long-sight view.
 
 We have also tried traditional reinforcement learning method (such as IMPALA and Ape-X), however, it is difficult for the model to capture the variation on the topology of the power network. To tackle the problem, Graph Neural Network (GNN) may be help, but not all kinds of GNNs (such as GCN) can be directly used since in the settings of L2RPN, taking actions may split the single node to two different nodes. In these cases, methods such as GAT may be help.
+
+#### Score
+
+<p align="center">
+<img src="/blog/20201108-L2RPN-track2-score.jpg" alt="" width="1000" />
+</p>
