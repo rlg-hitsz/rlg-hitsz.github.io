@@ -25,8 +25,12 @@ title: Teaching
      - Dueling DQN
      - Prioritized Experience Replay DQN
      - Rainbow DQN
-2. Monte-Carlo and Policy Gradient Method (Yuecheng Liu, 2020/10/28)
-   - Monte-Carlo
+2. Monte-Carlo Sampling and Policy Gradient Method (Yuecheng Liu, 2020/10/28)
+   - Monte-Carlo Sampling
+     - Importance Sampling
+     - Acceptance-Rejection Sampling
+     - Markov Chain Monte Carlo Method (MCMC)
+     - Metropolis-Hastings Sampling
    - Policy Gradient
    - DDPG
 3. Policy Optimization Algorithms and Robust RL (Shiyu Chen, 2020/11/04)
