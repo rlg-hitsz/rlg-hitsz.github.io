@@ -27,4 +27,6 @@ Welcome to the website of the Reinforcement Learning Group led by [Prof. Yanjie 
 - Intelligent Autonomous Unmanned Systems
 
 ### News
-- [Positions for Master and PhD students. (2019/06/08)](https://www.rlg-hitsz.net/positions)
+
+- [Yuecheng Liu Win the Team Champion of L2RPN NIPS 2020 Competition During Internship at Baidu. (2020/11/08)](https://www.rlg-hitsz.net/news/2020/11/08/Yuecheng-Liu-Win-The-Team-Champion-of-L2RPN-NIPS-2020-Competition-During-Internship-at-Baidu.html){:target="_blank"}
+- [Positions for Master and PhD students. (2019/06/08)](https://www.rlg-hitsz.net/positions){:target="_blank"}
