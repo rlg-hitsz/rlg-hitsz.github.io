@@ -28,5 +28,5 @@ Welcome to the website of the Reinforcement Learning Group led by [Prof. Yanjie 
 
 ### News
 
-- [Yuecheng Liu Win the Team Champion of L2RPN NIPS 2020 Competition During Internship at Baidu. (2020/11/08)](https://www.rlg-hitsz.net/news/2020/11/08/Yuecheng-Liu-Win-The-Team-Champion-of-L2RPN-NIPS-2020-Competition-During-Internship-at-Baidu.html){:target="_blank"}
+- [Yuecheng Liu Win the Team Champion of L2RPN NIPS 2020 Competition During Internship at Baidu. (2020/11/08)](https://www.rlg-hitsz.net/news/2020/11/08/Yuecheng-Liu-Win-The-Team-Champion-of-L2RPN-NIPS-2020-Competition-During-Internship-at-Baidu.html){:target="_blank"} <img src="/assets/images/new.gif" alt="" width="" />
 - [Positions for Master and PhD students. (2019/06/08)](https://www.rlg-hitsz.net/positions){:target="_blank"}
