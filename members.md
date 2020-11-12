@@ -199,3 +199,17 @@ title: Current Members
     </p>
 </div>
 ------
+
+### Undergraduate Students
+------
+<div class="block">
+    <img src="/people/fangzhe.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Zhe Fang (方哲)<br>
+        September, 2017 - Present<br>
+        B.Eng. in Harbin Institute of Technology, Shenzhen<br>
+        Email: fangzhe@stu.hit.edu.cn<br>
+        Research Interests: Reinforcement Learning, UAV Control
+    </p>
+</div>
+------
