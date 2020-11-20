@@ -54,4 +54,5 @@ title: Teaching
 4. Soft Q-Learning (Qi Liu, 2020/11/18)
    - Energy-based policy
    - Maximum Entropy RL
+
 ------
