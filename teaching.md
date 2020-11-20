@@ -9,10 +9,14 @@ title: Teaching
 
 ------
 ### Optimal Control
+
+1. Convex Set
+2. Convex Function
+
 ------
 ### Reinforcement Learning Foundation and Applications
 
-- RLG Internal Review, 2020/10/21.
+- RLG Internal Review, from 2020/10/21.
 
 1. Deep Q-Learning (Lintao Liu, 2020/10/21)
    - Q-Learning
@@ -47,5 +51,7 @@ title: Teaching
      - Probabilistic Action
      - Noisy Action
      - Robust DDPG and PPO
-4. 
+4. Soft Q-Learning (Qi Liu, 2020/11/18)
+   - Energy-based policy
+   - Maximum Entropy RL
 ------
