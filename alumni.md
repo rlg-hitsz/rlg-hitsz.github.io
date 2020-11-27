@@ -52,3 +52,14 @@ title: Alumni
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/zhangjiejie.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Jiejie Zhang (张洁洁)<br>
+        September, 2015 - January, 2018<br>
+        Position: Engineer, Hytera Company<br>
+        Email: 2464113460@qq.com<br>
+        Research Interests: Iterative Learning Control
+    </p>
+</div>
+------
