@@ -9,6 +9,39 @@ title: Alumni
 
 ------
 <div class="block">
+    <img src="/people/zhangyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        <a href="https://cnyuzhang.github.io/">Yu Zhang (张宇)</a><br>
+        September, 2018 - January, 2021<br>
+        Position: Engineer, DJI Company<br>
+        Email: xyzzhangyu@gmail.com<br>
+        Research Interests: Robotic Gait Planning
+    </p>
+</div>
+------
+<div class="block">
+    <img src="/people/liulintao.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        <a href="https://taospirit.github.io/">Lintao Liu (刘林韬)</a><br>
+        September, 2018 - January, 2021<br>
+        Position: Engineer, Parametrix.ai Company<br>
+        Email: lintao209@outlook.com<br>
+        Research Interests: Robotic Motion Planning
+    </p>
+</div>
+------
+<div class="block">
+    <img src="/people/wuchongying.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        Chongying Wu (邬崇莹)<br>
+        September, 2018 - January, 2021<br>
+        Position: Engineer, Shopee Company<br>
+        Email: 384346716@qq.com<br>
+        Research Interests: Reinforcement Learning
+    </p>
+</div>
+------
+<div class="block">
     <img src="/people/chenxin.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
         Xin Chen (陈鑫)<br>

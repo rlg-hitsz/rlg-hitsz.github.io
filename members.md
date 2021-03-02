@@ -57,39 +57,6 @@ title: Current Members
 ### MPhil Students
 ------
 <div class="block">
-    <img src="/people/zhangyu.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
-    <p>
-        <a href="https://cnyuzhang.github.io/">Yu Zhang (张宇)</a><br>
-        September, 2018 - Present<br>
-        B.Eng. in Qingdao University of Technology<br>
-        Email: xyzzhangyu@gmail.com<br>
-        Research Interests: Robotic Gait Planning
-    </p>
-</div>
-------
-<div class="block">
-    <img src="/people/liulintao.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
-    <p>
-        <a href="https://taospirit.github.io/">Lintao Liu (刘林韬)</a><br>
-        September, 2018 - Present<br>
-        B.Eng. in North China Electric Power University, Baoding<br>
-        Email: lintao209@outlook.com<br>
-        Research Interests: Robotic Motion Planning
-    </p>
-</div>
-------
-<div class="block">
-    <img src="/people/wuchongying.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
-    <p>
-        Chongying Wu (邬崇莹)<br>
-        September, 2018 - Present<br>
-        B.Eng. in Nanchang University<br>
-        Email: 384346716@qq.com<br>
-        Research Interests: Reinforcement Learning
-    </p>
-</div>
-------
-<div class="block">
     <img src="/people/xukaiming.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
     <p>
         Kevin Hsu (徐开明)<br>
