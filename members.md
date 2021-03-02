@@ -42,6 +42,17 @@ title: Current Members
     </p>
 </div>
 ------
+<div class="block">
+    <img src="/people/linke.jpg" alt="" width="150" height="210" align="left" hspace="10" vspace="5" />
+    <p>
+        <a href="https://kelincc.cn">Ke Lin (林可)</a><br>
+        March, 2021 - Present<br>
+        M.Eng. in Shanghai Jiaotong University<br>
+        Email: sheldon.chris.lin@gmail.com<br>
+        Research Interests: Safe Reinforcement Learning and Machine learning
+    </p>
+</div>
+------
 
 ### MPhil Students
 ------
