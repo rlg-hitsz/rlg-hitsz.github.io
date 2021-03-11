@@ -6,9 +6,9 @@ title: Publications
 ### Journal Papers (selected)
 
 ------
-Vision and laser fused SLAM in indoor environments with multi-robot system.
-*Chen, H., Huang, H., Qin, Y., **Li, Y.**, Liu, Y.*
-Assembly Automation, 2019.
+Vision and laser fused SLAM in indoor environments with multi-robot system.<br>
+*Chen, H., Huang, H., Qin, Y., **Li, Y.**, Liu, Y.*<br>
+Assembly Automation, 2019.<br>
 
 ------
 
