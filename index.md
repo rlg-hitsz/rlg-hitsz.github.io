@@ -28,6 +28,6 @@ Welcome to the website of the Reinforcement Learning Group led by [Prof. Yanjie 
 
 ### News
 
-- [Summer Internship about Research on Key Technologies of Intelligent Unmanned Warehouse System.(2021/06/28)](https://www.rlg-hitsz.net/news/2020/11/08/Yuecheng-Liu-Win-The-Team-Champion-of-L2RPN-NIPS-2020-Competition-During-Internship-at-Baidu.html) {:target="_blank"} <img src="/assets/images/new.gif" alt="" width="" />
+- [Summer Internship about Research on Key Technologies of Intelligent Unmanned Warehouse System.(2021/06/28)](https://www.rlg-hitsz.net/news/2021/06/28/summer-internship-about-research-on-key-technologies-of-intelligent-unmanned-warehouse-system.html){:target="_blank"} <img src="/assets/images/new.gif" alt="" width="" />
 - [Yuecheng Liu Win the Team Champion of L2RPN NIPS 2020 Competition During Internship at Baidu. (2020/11/08)](https://www.rlg-hitsz.net/news/2020/11/08/Yuecheng-Liu-Win-The-Team-Champion-of-L2RPN-NIPS-2020-Competition-During-Internship-at-Baidu.html){:target="_blank"}
 - [Positions for Master and PhD students. (2019/06/08)](https://www.rlg-hitsz.net/positions){:target="_blank"}
