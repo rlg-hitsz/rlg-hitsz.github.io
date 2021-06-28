@@ -13,9 +13,12 @@ categories:
 <img src="/blog/20210628-summer-intern.jpg" alt="" width="600" />
 </p>
 
-This summer, six undergraduates at the university of mechanical and electrical engineering and automation will come to the laboratory for an internship in the warehouse mobile robot project. The project mainly includes: 1. the development of the warehouse system scheduling software; 2. Multi-sensor fusion positioning of warehouse mobile robot; 3. The warehouse mobile robot path planning. Professor Li will provide technical guidance for this item. Dr. Gao will be responsible for the support and security of the project. The project site is located in C101, the university park of Harbin industrial university.
+This summer, six undergraduates at the university of mechanical and electrical engineering and automation will come to the laboratory for an internship in the warehouse mobile robot project.
 
+The project mainly includes:
 
+1. The development of the warehouse system scheduling software.
+2. Multi-sensor fusion localization of warehouse mobile robot.
+3. The warehouse mobile robot path planning.
 
-
-
+Prof. Li will provide technical guidance for this item. Dr. Gao will be responsible for the support and security of the project. The project site is located at HITsz-C101.
