@@ -4,16 +4,18 @@ title: Research
 ---
 
 <p align="center">
-<img src="/research/r1.jpg" alt="" width="800" />
+<img src="/research/research-directions.png" alt="" width="1000" />
 </p>
 
-Our research focus on the theory of Reinforcement Learning, Inverse Reinforcement Learning, Decision and Optimization, and their applications in  UAV control, unmanned driving system and warehousing robot scheduling.
+Our research focus on the theory of Reinforcement Learning, Inverse Reinforcement Learning, Safe Reinforcement Learning, Decision and Optimization, and their applications in intelligent decision and scheduling, and robotic control and planning.
 
 Feel free to contact us if you are interested in some of these projects.
 
 ------
 
 ### Unmanned Warehouse Robot
+
+*深圳市基础布局项目：《智能无人仓库系统关键技术研究》，主持*
 
 In the field of logistics, the optimal scheduling of warehousing robots has always been a challenge. Given a handling task, how to schedule warehouse robots so that they can complete the task in the shortest time? How to use the minimum power consumption to finish the given task? And, how to use the least number of robots to complete a given task within the specified time? These all are the issues that we should consider. In the next few years, powered by the strong decision-making ability of RL algorithms, our group will focus on this problem, making warehouse robots smarter and more powerful.
 
@@ -25,6 +27,8 @@ In the field of logistics, the optimal scheduling of warehousing robots has alwa
 ------
 
 ### Safe Reinforcement Learning
+
+*国家自然科学基金面上项目：《时间和部分可观因素影响下的逆向强化学习最优性和安全性研究》，主持*
 
 Limited to the paradigm of trial and error, reinforcement learning algorithms have not been widely applied in practice, especially in scenes with physical objects. This is because, when training an agent, a random policy may lead to unpredictable actions which will result in physical damage. So, the idea of safe reinforcement learning was proposed to tackle this challenge. Safe RL can be defined as the process of learning policies that maximize the expectation of the return in problems in which it is important to ensure reasonable system performance and/or respect safety constraints during the learning and/or deployment processes. At present, the development of safe reinforcement learning algorithms is relatively preliminary, most of which only reduce the probability of unsafe behavior in the process of exploitation. Therefore, an important research topic of our group is safe reinforcement learning, and we committe to applying reinforcement learning algorithms to various industries.
 
