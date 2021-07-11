@@ -7,7 +7,7 @@ title: Research
 <img src="/research/research-directions.svg" alt="" width="1000" />
 </p>
 
-Our research focus on the theory of Reinforcement Learning, Inverse Reinforcement Learning, Safe Reinforcement Learning, Decision and Optimization, and their applications in intelligent decision and scheduling, and robotic control and planning.
+Our research focus on the theory of Reinforcement Learning, Inverse Reinforcement Learning, Safe Reinforcement Learning, Decision-Making and Optimization, and their applications in intelligent scheduling and dispatching, and robotic control and planning.
 
 Feel free to contact us if you are interested in some of these projects.
 
