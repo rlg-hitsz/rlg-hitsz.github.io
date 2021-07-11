@@ -4,7 +4,7 @@ title: Research
 ---
 
 <p align="center">
-<img src="/research/research-directions.png" alt="" width="1000" />
+<img src="/research/research-directions.svg" alt="" width="1000" />
 </p>
 
 Our research focus on the theory of Reinforcement Learning, Inverse Reinforcement Learning, Safe Reinforcement Learning, Decision and Optimization, and their applications in intelligent decision and scheduling, and robotic control and planning.
