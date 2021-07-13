@@ -15,7 +15,7 @@ Feel free to contact us if you are interested in some of these projects.
 
 ### Unmanned Warehouse Robot
 
-> Basic Layout Project of Shenzhen: Research on Key Technologies of Intelligent Unmanned Warehouse System, Project Principal.
+> Shenzhen Fundamental Research Program: Research on Key Technologies of Intelligent Unmanned Warehouse System, Project Principal.
 
 In the field of logistics, the optimal scheduling of warehousing robots has always been a challenge. Given a handling task, how to schedule warehouse robots so that they can complete the task in the shortest time? How to use the minimum power consumption to finish the given task? And, how to use the least number of robots to complete a given task within the specified time? These all are the issues that we should consider. In the next few years, powered by the strong decision-making ability of RL algorithms, our group will focus on this problem, making warehouse robots smarter and more powerful.
 
